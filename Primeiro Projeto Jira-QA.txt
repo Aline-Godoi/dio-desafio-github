@@ -1,0 +1,10 @@
+Scrum e seu desenvolvimento no Jira.
+
+Fluxograma de trabalho
+Mind Map com fluxo de testes
+User Story
+Casos de testes, ciclo de testes e plano de testes
+Bug criado com base em um dos testes que falharam.
+
+
+Link do repositório: https://github.com/Aline-Godoi/DioProject.git

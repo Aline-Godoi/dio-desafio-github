@@ -1,0 +1,8 @@
+Link para comandos Git: https://comandosgit.github.io/
+
+Criando o projeto;
+git init - Inicializando um Repositório em um Diretório Existente
+git clone - Você clona um repositório, usando git clone [url].
+git add - Monitorando Novos Arquivos
+git status - ferramenta utilizada para determinar quais arquivos estão em quais estados
+git commit - Armazena o conteúdo atual do índice em um novo commit

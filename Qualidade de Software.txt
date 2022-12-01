@@ -1,0 +1,14 @@
+O que é QUALIDADE? 
+Qualidade pode ser entendida como um conjunto de características a serem satisfeitas,
+de modo que o produto de Software atenda ás necessidades de seus usuários.
+
+Qual é o objetivo da Qualidade de Software? 
+O principal objetivo é garantir um produto final que satisfaça ás expectativas do cliente,
+dentro daquilo que foi acordado.
+A Qualidade de Softaware não pode ser entendida como Perfeição.
+
+Como a Qualidade pode ser mensurada?
+Aqualidade de design do software pode ser medidade compondo o processo em atributos de 
+qualidade como usabilidade, extensibilidade, escalabilidade, capacidade de manutenção e 
+reutilização, testabilidade, confiabilidade, segurança e desempenho, dentre outros.
+
